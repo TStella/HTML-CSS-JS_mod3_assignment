@@ -1,0 +1,16 @@
+#main-section{
+  background-color: lightblue;
+  height: 1000px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+}
+
+#nav-list a {  
+  text-align: center;
+}
+
+#nav-list a:hover {
+  background: lightblue;
+}
